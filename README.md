@@ -4,7 +4,7 @@ The application is primarily intended for hardmod creators and users who want to
 
 ## Current version
 
-The current version is **Spira Modifier v0.74**.
+The current version is **Spira Modifier v0.73**.
 
 This edition includes:
 
