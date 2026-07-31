@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <RootNamespace>SpiraModifier.App</RootNamespace>
+    <AssemblyName>SpiraModifier</AssemblyName>
+    <ApplicationIcon></ApplicationIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpiraModifier.Core\SpiraModifier.Core.csproj" />
+  </ItemGroup>
+
+</Project>

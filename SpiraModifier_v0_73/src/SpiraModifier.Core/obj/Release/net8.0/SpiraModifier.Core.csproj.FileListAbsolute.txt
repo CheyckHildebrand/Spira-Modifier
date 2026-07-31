@@ -1,0 +1,9 @@
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\bin\Release\net8.0\SpiraModifier.Core.deps.json
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\bin\Release\net8.0\SpiraModifier.Core.dll
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\obj\Release\net8.0\SpiraModifier.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\obj\Release\net8.0\SpiraModifier.Core.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\obj\Release\net8.0\SpiraModifier.Core.AssemblyInfo.cs
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\obj\Release\net8.0\SpiraModifier.Core.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\obj\Release\net8.0\SpiraModifier.Core.dll
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\obj\Release\net8.0\refint\SpiraModifier.Core.dll
+C:\Users\User\Documents\Codex\2026-05-15\continuons-le-projet-spiramodifier-depuis-le\SpiraModifier_v0_73_attack_entry_append_translated\src\SpiraModifier.Core\obj\Release\net8.0\ref\SpiraModifier.Core.dll

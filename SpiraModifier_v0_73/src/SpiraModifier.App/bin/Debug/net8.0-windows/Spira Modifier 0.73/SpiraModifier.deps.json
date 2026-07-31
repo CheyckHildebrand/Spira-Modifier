@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SpiraModifier/1.0.0": {
+        "dependencies": {
+          "SpiraModifier.Core": "1.0.0"
+        },
+        "runtime": {
+          "SpiraModifier.dll": {}
+        }
+      },
+      "SpiraModifier.Core/1.0.0": {
+        "runtime": {
+          "SpiraModifier.Core.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpiraModifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpiraModifier.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
